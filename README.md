@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JuanPabloRios27
+- 👋 Hello everyone this is my official github account
 - 👀 I’m interested in learn, code and work.
 - 🌱 I’m currently learning computer science from the college.
 - 💞️ I’m looking to collaborate on achieve my own potential.
