@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andermendoza&label=Profile%20views&color=0e75b6&style=flat" alt="andermendoza" /> </p>
 - 👋 Hello everyone this is my official github account, my real name is Juan Pablo and I really a programmer. You can follow me to share knowledge with me.
 - 👀 I’m interested in learn, code, invest and real amazing stuff in this comunity, I hope that you want to find this stuffs too.
-- 🌱 I’m currently studying computer science from the college. Anjd starting to invest in social media, nowdays im still a amateur in doing this stuff.
+- 🌱 I’m currently studying computer science from the college. And I wanted to invest in social media, code and doing some stuff.
 - 💞️ I’m looking to collaborate on achieve my own potential. And help others to do that.
 - 📫 How to reach me, you can contact me by this email jprios@unbosque.edu.co or search by my twitter channel
 <h1 align="center">Welcome to my official github profile</h1>
@@ -27,7 +27,7 @@
                                                                                                                                                                                                                                                                                                                                                                     
 
 <!-- TROFEOS GITHUB -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andermendoza&theme=dracula&column=7" alt="andermendoza" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JuanPabloRios27&theme=dracula&column=7" alt="andermendoza" /></a> </p>
 
 
 
