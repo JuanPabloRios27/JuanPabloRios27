@@ -6,7 +6,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
 <!-- VISTAS DEL PERFIL -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andermendoza&label=Profile%20views&color=0e75b6&style=flat" alt="andermendoza" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JuanPabloRios27&label=Profile%20views&color=0e75b6&style=flat" alt="andermendoza" /> </p>
 
 - 👋 Hello everyone this is my official github account, my real name is Juan Pablo and there are some kind of work that you can contribute if you can.
 
