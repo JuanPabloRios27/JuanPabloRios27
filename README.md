@@ -8,7 +8,7 @@
 <!-- VISTAS DEL PERFIL -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andermendoza&label=Profile%20views&color=0e75b6&style=flat" alt="andermendoza" /> </p>
 
-- 👋 Hello everyone this is my official github account, my real name is Juan Pablo and I wanted to be a programmer awesome. You can follow me to share knowledge with me.
+- 👋 Hello everyone this is my official github account, my real name is Juan Pablo and there are some kind of work that you can contribute if you can.
 
 - 👀 I’m interested in learn, code, invest and real amazing stuff in this comunity, I hope that you want to find this stuffs too.
   
@@ -44,13 +44,7 @@
   <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPabloRios27&layout=compact&theme=gotham&langs_count=8"/>
 </div>
 
-name: Half-year calendar
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.isocalendar.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_isocalendar: yes
+
 
 <!-- GIF FOOTER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
