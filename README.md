@@ -209,7 +209,7 @@ Broad affiliations will result in less representative metrics.</p>
 
 <!--examples-->
 ```yaml
-name: Default metrics
+name: World Wide Web
 uses: lowlighter/metrics@latest
 with:
   filename: metrics.base.svg
