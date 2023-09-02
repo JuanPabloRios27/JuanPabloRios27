@@ -14,7 +14,7 @@
   
 - 🌱 I’m currently studying computer science from the college. And I wanted to invest in social media, code and doing some stuff.
   
-- 💞️ I’m looking to collaborate on achieve my own potential. And help others to do that.
+- 💞️ I’m looking to find someone to help me, achieve my own potential. And help others to do that.
   
 - 📫 How to reach me, you can contact me by this email jprios@unbosque.edu.co or search by my twitter channel.
   
