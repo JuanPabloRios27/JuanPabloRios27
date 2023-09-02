@@ -12,7 +12,7 @@
 
 - 👀 I’m interested in learn, code, invest and real amazing stuff in this comunity, I hope that you want to find this stuffs too.
   
-- 🌱 I’m currently studying System Enginner from the college. And I wanted to invest in social media, code and doing some stuff.
+- 🌱 I’m currently studying System Engineer from the college. And I wanted to invest in social media, code and doing some stuff.
   
 - 💞️ I’m looking to find someone to help me, achieve my own potential. And help others to do that.
   
