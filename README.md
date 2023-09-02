@@ -7,7 +7,7 @@
 
 <!-- VISTAS DEL PERFIL -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andermendoza&label=Profile%20views&color=0e75b6&style=flat" alt="andermendoza" /> </p>
-- 👋 Hello everyone this is my official github account, my real name is Juan Pablo and I really a programmer. You can follow me to share knowledge with me.
+- 👋 Hello everyone this is my official github account, my real name is Juan Pablo and I wanted to be a programmer awesome. You can follow me to share knowledge with me.
 
 - 👀 I’m interested in learn, code, invest and real amazing stuff in this comunity, I hope that you want to find this stuffs too.
   
