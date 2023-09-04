@@ -35,6 +35,8 @@
 <!-- TROFEOS GITHUB -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JuanPabloRios27&theme=dracula&column=7" alt="JuanPabloRios27" /></a> </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=JuanPablo27&theme=dark&hide_border=true&locale=es&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&card_width=494&sideNums=EB5454)](https://git.io/streak-stats)
+
 
 <!-- STATS Y LENGUAJES MAS USADOS -->
 <div style="display:grid;align-items:center;justify-content:center">
