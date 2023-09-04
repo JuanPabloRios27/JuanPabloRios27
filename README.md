@@ -36,7 +36,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JuanPabloRios27&theme=dracula&column=7" alt="JuanPabloRios27" /></a> </p>
 
 
-
+<!-- STATS Y LENGUAJES MAS USADOS -->
+<div style="display:grid;align-items:center;justify-content:center">
+  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=JuanPabloRios27&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
+  <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPabloRios27&layout=compact&theme=gotham&langs_count=8"/>
+</div>
 
 
 
