@@ -8,15 +8,7 @@
 <!-- VISTAS DEL PERFIL -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JuanPabloRios27&label=Profile%20views&color=0e75b6&style=flat" alt="andermendoza" /> </p>
 
-- 👋 Hello everyone this is my official github account, my real name is Juan Pablo and there are some kind of work that you can contribute if you can.
 
-- 👀 I’m interested in learn, code, invest and real amazing stuff in this comunity, I hope that you want to find this stuffs too.
-  
-- 🌱 I’m currently studying Computer Science from the college. And I wanted to invest in social media, code and doing some stuff.
-  
-- 💞️ I’m looking to find someone to help me, achieve my own potential. And help others to do that.
-  
-- 📫 How to reach me, you can contact me by this email jprios@unbosque.edu.co or search by my twitter channel.
   
 <h1 align="center">Welcome to my official github profile</h1>
 <h3 align="center">Here you can find all my proyects freely</h3>
