@@ -26,7 +26,8 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JuanPablo27&theme=dark&hide_border=true&locale=es&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&card_width=494&sideNums=EB5454)](https://git.io/streak-stats)&nbsp;[![Spotify]([https://novatorem.vercel.app/api/spotify](https://open.spotify.com/playlist/7bIHueni47JcgwSxfnjL1F)?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/22cxqxmkyaejp4ranbtgtwgby)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JuanPablo27&theme=dark&hide_border=true&locale=es&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&card_width=494&sideNums=EB5454)](https://git.io/streak-stats)&nbsp;[!
+[![Spotify](https://open.spotify.com/playlist/7bIHueni47JcgwSxfnjL1F)[!
 
 
 <!-- STATS Y LENGUAJES MAS USADOS -->
