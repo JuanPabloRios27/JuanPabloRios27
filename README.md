@@ -10,10 +10,10 @@
 
 
   
-<h1 align="center">Welcome to my official github profile</h1>
-<h3 align="center">Here you can find all my proyects freely</h3>
+<h1 align="center">Bienvenidos a mi cuenta de GitHub</h1>
+<h3 align="center">Aqui puedes encontrar todos mis proyectos.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conectame conmigo.</h3>
 <p align="left">
 <a href="https://twitter.com/@worldwide1927" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@worldwide1927" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/world wide channel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="world wide channel" height="30" width="40" /></a>
