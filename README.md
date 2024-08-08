@@ -11,7 +11,7 @@
 
   
 <h1 align="center">Bienvenidos a mi cuenta de GitHub</h1>
-<h3 align="center">Aqui puedes encontrar todos mis proyectos y trabajos recientes hacia mi trabajo.</h3>
+<h3 align="center">Aqui puedes encontrar todos mis proyectos y trabajos recientes entorno a mi trabajo.</h3>
 
 
 
