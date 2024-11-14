@@ -1,1 +1,1 @@
-https://github-profile-trophy.vercel.app/?username=JuanPaabloRios27-ma&theme=matrix
+<https://github-profile-trophy.vercel.app/?username=JuanPaabloRios27-ma&theme=matrix>
