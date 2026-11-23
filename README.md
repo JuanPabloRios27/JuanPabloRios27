@@ -1,25 +1,89 @@
-## Conocimientos / Knowledge
+<!--header-->
+<table>
+  <tr><td colspan="2"><a href="/README.md#-plugins">← Back to plugins index</a></td></tr>
+  <tr><th colspan="2"><h3>📅 Isometric commit calendar</h3></th></tr>
+  <tr><td colspan="2" align="center"><p>This plugin displays an isometric view of a user commit calendar along with a few additional statistics like current streak and average number of commit per day.</p>
+</td></tr>
+  <tr><th>⚠️ Disclaimer</th><td><p>This plugin is not affiliated, associated, authorized, endorsed by, or in any way officially connected with <a href="https://github.com">GitHub</a>.
+All product and company names are trademarks™ or registered® trademarks of their respective holders.</p>
+</td></tr>
+  <tr>
+    <th rowspan="3">Supported features<br><sub><a href="metadata.yml">→ Full specification</a></sub></th>
+    <td><a href="/source/templates/classic/README.md"><code>📗 Classic template</code></a> <a href="/source/templates/terminal/README.md"><code>📙 Terminal template</code></a></td>
+  </tr>
+  <tr>
+    <td><code>👤 Users</code></td>
+  </tr>
+  <tr>
+    <td><code>🔑 (scopeless)</code> <code>read:org (optional)</code> <code>read:user (optional)</code> <code>read:packages (optional)</code> <code>repo (optional)</code></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <details open><summary>Full year calendar</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
+      <details><summary>Half year calendar</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg" alt=""></img></details>
+      <img width="900" height="1" alt="">
+    </td>
+  </tr>
+</table>
+<!--/header-->
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-[![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-[![C](https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-[![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-[![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+## ➡️ Available options
 
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+<!--options-->
+<table>
+  <tr>
+    <td align="center" nowrap="nowrap">Option</i></td><td align="center" nowrap="nowrap">Description</td>
+  </tr>
+  <tr>
+    <td nowrap="nowrap"><h4><code>plugin_isocalendar</code></h4></td>
+    <td rowspan="2"><p>Enable isocalendar plugin</p>
+<img width="900" height="1" alt=""></td>
+  </tr>
+  <tr>
+    <td nowrap="nowrap"><b>type:</b> <code>boolean</code>
+<br>
+<b>default:</b> no<br></td>
+  </tr>
+  <tr>
+    <td nowrap="nowrap"><h4><code>plugin_isocalendar_duration</code></h4></td>
+    <td rowspan="2"><p>Time range</p>
+<ul>
+<li><code>half-year</code>: 180 days</li>
+<li><code>full-year</code>: 1 year</li>
+</ul>
+<img width="900" height="1" alt=""></td>
+  </tr>
+  <tr>
+    <td nowrap="nowrap"><b>type:</b> <code>string</code>
+<br>
+<b>default:</b> half-year<br>
+<b>allowed values:</b><ul><li>half-year</li><li>full-year</li></ul></td>
+  </tr>
+</table>
+<!--/options-->
 
+## ℹ️ Examples workflows
 
-[![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+<!--examples-->
+```yaml
+name: Half-year calendar
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.isocalendar.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_isocalendar: yes
 
-[![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-[![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=Arduino&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+```
+```yaml
+name: Full-year calendar
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.isocalendar.fullyear.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_isocalendar: yes
+  plugin_isocalendar_duration: full-year
 
----
+```
+<!--/examples-->
