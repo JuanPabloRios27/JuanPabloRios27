@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **ROS and Machine Learning**
 
-- 📝 I requiere to get applied [An internship](An internship)
-
 - 📫 How to reach me **jprios2010@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
