@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juan Pablo</h1>
 <h3 align="center">I'm a systems enginner from Bosque University</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JuanPabloRios27" alt="JuanPabloRios27" /></a> </p>
+</a> </p>
 
 - 🌱 I’m currently learning **ROS and Machine Learning**
 
